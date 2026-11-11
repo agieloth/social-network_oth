@@ -1,0 +1,15 @@
+# Compiled binary
+/main
+/server
+/social
+*.exe
+
+# Local database and user uploads
+/data/
+*.db
+*.db-shm
+*.db-wal
+/uploads/
+
+# Environment
+.env
